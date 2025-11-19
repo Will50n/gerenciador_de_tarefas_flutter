@@ -4,4 +4,4 @@ O presente projeto é o resultado da Avaliação Continuada de Questão fechada 
 ## Instruções:
 Para entrar no gerenciador, na tela de login, você deve digitar o e-mail "mateus@gmail.com" e a senha "123".
 No calendário que aparecer, você pode escolher um dia do mês.
-Após selecionar o dia você pode criar novas tarefas, marcá-las como concluidas ou apagá-las.
+Após selecionar o dia, você pode criar novas tarefas, marcá-las como concluidas ou apagá-las.
